@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[girauno.tx]
+file_filter = src/qt/locale/girauno_<lang>.ts
+source_file = src/qt/locale/girauno_en.ts
+source_lang = en

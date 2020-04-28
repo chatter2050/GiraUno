@@ -1,0 +1,11 @@
+[Protocol]
+exec=girauno-qt '%u'
+protocol=girauno
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

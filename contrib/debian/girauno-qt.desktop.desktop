@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Girauno
+Comment=Girauno P2P Cryptocurrency
+Exec=girauno-qt %u
+Terminal=false
+Type=Application
+Icon=girauno128
+MimeType=x-scheme-handler/girauno;
+Categories=Office;Finance;
+Name[en_US]=girauno-qt.desktop

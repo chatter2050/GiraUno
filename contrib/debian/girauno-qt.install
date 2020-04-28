@@ -1,0 +1,6 @@
+usr/local/bin/girauno-qt usr/bin
+share/pixmaps/girauno32.xpm usr/share/pixmaps
+share/pixmaps/girauno16.xpm usr/share/pixmaps
+share/pixmaps/girauno128.png usr/share/pixmaps
+debian/girauno-qt.desktop usr/share/applications
+debian/girauno-qt.protocol usr/share/kde4/services/
